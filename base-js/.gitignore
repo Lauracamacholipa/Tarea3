@@ -1,4 +1,0 @@
-# Ejemplo de lo que puede contener .gitignore
-node_modules/
-dist/
-*.log
